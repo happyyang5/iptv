@@ -24,6 +24,17 @@ IPTV机顶盒拉流地址。
 
 ## 静态地址
 
+
+
+https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/iptv/main/a.m3u
+https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/iptv/main/ae.m3u
+
+https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/iptv/main/b.m3u
+https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/iptv/main/be.m3u
+
+https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/iptv/main/c.m3u
+https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/iptv/main/ce.m3u
+
 码云地址
 
 https://gitee.com/happy__yang/iptvi/raw/master/c.m3u
