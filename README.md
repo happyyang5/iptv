@@ -28,7 +28,7 @@ IPTV机顶盒拉流地址。
 
 https://gitee.com/happy__yang/iptvi/raw/master/c.m3u
 
-https://gitee.com/happy__yang/iptvi/raw/master/cd.
+https://gitee.com/happy__yang/iptvi/raw/master/cd.m3u
 
 凯速网
 
