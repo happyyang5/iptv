@@ -24,13 +24,17 @@ IPTV机顶盒拉流地址。
 
 ## 静态地址
 
-
+6410端口
 
 https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/iptv/main/a.m3u
 https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/iptv/main/ae.m3u
 
+6100端口
+
 https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/iptv/main/b.m3u
 https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/iptv/main/be.m3u
+
+8006端口
 
 https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/iptv/main/c.m3u
 https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/iptv/main/ce.m3u
