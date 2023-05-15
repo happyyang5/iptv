@@ -24,7 +24,7 @@ IPTV机顶盒拉流地址。
 
 EPG 节目单
 
-http:epg.112114.xyz
+http://epg.112114.xyz
 
 https://epg.112114.xyz/pp.xml
 
