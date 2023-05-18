@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXT-X-APP IPTV
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/iptv/main/allinone.m3u
