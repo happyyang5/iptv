@@ -1,4 +1,8 @@
-﻿#EXTM3U
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXT-X-APP IPTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL https://ghproxy.com/https://raw.githubusercontent.com/happyyang5/iptv/main/ae.m3u
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1
 http://111.39.197.195:6410/120000001003/live/program/_ahbyfh-1_/live/cctv1hd4mc/index.m3u8?&stbMac=
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2
