@@ -9,7 +9,7 @@
 **************************************
 
 [rewrite_local]
-^http://tailor\.tomax\.xyz/api/users/fetch/info url script-response-body https://raw.githubusercontent.com/SheepFJ/Sheep/main/gdjp.js  
+^http://tailor\.tomax\.xyz/api/users/fetch/info url script-response-body https://tv.mymin.top/qx/scripts/gdjp.js  
 [mitm]
 hostname = tailor.tomax.xyz
 
