@@ -7,7 +7,7 @@
 #!icon = https://raw.githubusercontent.com/osinx/Script/main/icon/streamMusic.png
 
 [Script]
-http-response ^https:\/\/pay\.aqzscn\.cn\/api\/v1\/payments\/ script-path = https://raw.githubusercontent.com/osinx/Script/main/vip/streamMusic.js, requires-body = true, tag = 音流解锁VIP
+http-response ^https:\/\/pay\.aqzscn\.cn\/api\/v1\/payments\/ script-path = https://tv.mymin.top/qx/scripts/streamMusic.js, requires-body = true, tag = 音流解锁VIP
 
 [Mitm]
 hostname = pay.aqzscn.cn
